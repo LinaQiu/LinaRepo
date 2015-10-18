@@ -1,2 +1,2 @@
 # LinaRepo
-For HW1 for STAT545 course.
+For CPEN442 VPN Assignment AES part
